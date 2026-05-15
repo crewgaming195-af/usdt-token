@@ -1,13 +1,13 @@
 {
-  "name": "Tether",
+  "name": "Tether USD",
   "symbol": "USDT",
-  "type": "TRC20",
-  "chain": "TRON",
-  "contractAddress": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
-  "decimals": 6,
-  "totalSupply": "1000000000000",
-  "logoURI": "https://crewgaming195-af.github.io/usdt-token/usdt.png",
+  "type": "BEP20",
+  "chain": "BNB Smart Chain",
+  "contractAddress": "0x55d398326f99059fF775485246999027B3197955",
+  "decimals": 18,
+  "totalSupply": "1000000000000000000000000000000",
+  "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether.png",
   "website": "https://tether.to",
-  "description": "USDT TRC20 token on the TRON blockchain",
-  "explorer": "https://tronscan.org/#/token20/TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
+  "description": "USDT BEP20 token on the BNB Smart Chain blockchain",
+  "explorer": "https://bscscan.com/token/0x55d398326f99059fF775485246999027B3197955"
 }
